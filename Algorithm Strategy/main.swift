@@ -1,4 +1,4 @@
-
+//스터디 문제 풀이
 func factorialRecursive(_ n: Int) -> Int{
 
     var result = 0
